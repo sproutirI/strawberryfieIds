@@ -1,4 +1,4 @@
-
+![image](https://github.com/seraphicism/seraphicism/blob/956075b47c539edd1d1fd092853297877418f3d2/IMG_6203.jpeg)
 <!--
 **seraphicism/seraphicism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
